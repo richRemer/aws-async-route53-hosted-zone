@@ -1,0 +1,6 @@
+{
+  "name": "aws-async-route53-zone",
+  "version": "0.0.1",
+  "type": "module",
+  "exports": "./hosted-zone.js"
+}
